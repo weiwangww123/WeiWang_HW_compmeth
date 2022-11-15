@@ -15,3 +15,6 @@ update homework4
 
 10/31/2022
 update homework5
+
+11/14/2022
+update homework6 and 7
