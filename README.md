@@ -24,3 +24,6 @@ update homework8
 
 12/12/2022
 update homework5
+
+12/15/2022
+update dcst.py module for homework5
